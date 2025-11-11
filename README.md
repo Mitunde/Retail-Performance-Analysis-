@@ -2,10 +2,11 @@
 This report presents a comprehensive analysis of retail sales performance using data collected from a retail store between 2022 and 2023. The dataset contains 2,000 transactional records from 155 unique customers, covering three major product categories: Clothing, Electronics, and Beauty.
 The analysis explores the sales distribution across time, product categories, and customers to uncover patterns, trends, and opportunities for business growth. Through data understanding, exploratory data analysis (EDA), and visualization, this report aims to identify key factors influencing retail performance, customer behavior, and sales dynamics.
 
-<img width="1321" height="719" alt="Screenshot 2025-11-11 083835" src="https://github.com/user-attachments/assets/bbd5e4d2-f305-4042-9bf0-9cd884968ab5" />
+
+<img width="1342" height="741" alt="Screenshot 2025-11-11 141119" src="https://github.com/user-attachments/assets/2a01bd15-6acc-4012-b0e2-3dca08fbb058" />
 
 # Introduction
-In today’s competitive retail environment, data-driven decision-making plays a crucial role in optimizing business performance. Retailers must continuously analyze their sales data to understand customer preferences, seasonal trends, and category performance to maximize profitability and customer satisfaction.
+In today’s competitive retail environment, data-driven decision-making plays a crucial role in optimizing business performance. Retailers must continually analyze their sales data to understand customer preferences, seasonal trends, and category performance, thereby maximizing profitability and customer satisfaction.
 This project focuses on analyzing retail sales data to gain actionable insights into business operations. Using the provided dataset, we conduct:
 - Data Understanding — to assess the structure, completeness, and scope of the data.
 - Exploratory Data Analysis (EDA) — to explore trends, outliers, and relationships among key variables.
